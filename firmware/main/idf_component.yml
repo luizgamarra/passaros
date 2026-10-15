@@ -1,0 +1,4 @@
+dependencies:
+  esp-tflite-micro:
+    git: https://github.com/espressif/esp-tflite-micro.git
+    version: 416d3713e9312025df434d6f33600ec490705b3d

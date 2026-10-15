@@ -1,0 +1,18 @@
+menu "Passaros - microfone I2S externo"
+config BIRD_I2S_BCLK
+    int "GPIO BCLK/SCK"
+    default 4
+config BIRD_I2S_WS
+    int "GPIO WS/LRCLK"
+    default 5
+config BIRD_I2S_DATA
+    int "GPIO SD/DOUT"
+    default 6
+config BIRD_I2S_RIGHT
+    bool "Canal direito (L/R ligado a 3V3)"
+    default n
+config BIRD_PCM_SHIFT
+    int "Deslocamento do slot I2S 32 bits para PCM16"
+    range 8 24
+    default 16
+endmenu

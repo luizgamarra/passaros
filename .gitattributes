@@ -1,0 +1,9 @@
+* text=auto
+*.ps1 text eol=crlf
+*.sh text eol=lf
+*.bin binary
+*.pcm binary
+*.tflite binary
+*.wav binary
+*.pdf binary
+*.elf binary

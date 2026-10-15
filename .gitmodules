@@ -1,0 +1,12 @@
+[submodule "upstream/BioDCASE-Tiny-2026"]
+	path = upstream/BioDCASE-Tiny-2026
+	url = https://github.com/birdnet-team/BioDCASE-Tiny-2026.git
+[submodule "upstream/BirdNET-Analyzer"]
+	path = upstream/BirdNET-Analyzer
+	url = https://github.com/birdnet-team/BirdNET-Analyzer.git
+[submodule "upstream/BirdNET-Tiny-Forge"]
+	path = upstream/BirdNET-Tiny-Forge
+	url = https://github.com/birdnet-team/BirdNET-Tiny-Forge.git
+[submodule "upstream/BirdNET-Tiny-Forge-Korvo2-template"]
+	path = upstream/BirdNET-Tiny-Forge-Korvo2-template
+	url = https://github.com/birdnet-team/BirdNET-Tiny-Forge-Korvo2-template.git
